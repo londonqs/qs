@@ -10,8 +10,8 @@
 
 
 ###August, 2013###
-- **Me** - Farzana Dudhwala | [presentation](meetup content/August 2013/ME  - Farzana Dudhwala.pdf) | video (wip)
-- **Long Run Quantification**  - Mathew Beard | [presentation](meetup content/August 2013/130828-QuantSelf-Mathew Beard.pptx) | video (wip)
+- **Me** - Farzana Dudhwala | [presentation](meetup content/August 2013/ME  - Farzana Dudhwala.pdf) | [video](https://vimeo.com/73598429)
+- **Long Run Quantification**  - Mathew Beard | [presentation](meetup content/August 2013/130828-QuantSelf-Mathew Beard.pptx) | [video](https://vimeo.com/74067335)
 - **Skill Acquisition** - Adam Johnson | [presentation](meetup content/August 2013/skill-acquisition-Adam_Johnson.pdf) | video (wip)
 
 ###July, 2013###
