@@ -12,7 +12,7 @@
 ###August, 2013###
 - **Me** - Farzana Dudhwala | [presentation](meetup content/August 2013/ME  - Farzana Dudhwala.pdf) | [video](https://vimeo.com/73598429)
 - **Long Run Quantification**  - Mathew Beard | [presentation](meetup content/August 2013/130828-QuantSelf-Mathew Beard.pptx) | [video](https://vimeo.com/74067335)
-- **Skill Acquisition** - Adam Johnson | [presentation](meetup content/August 2013/skill-acquisition-Adam_Johnson.pdf) | video (wip)
+- **Skill Acquisition** - Adam Johnson | [presentation](meetup content/August 2013/skill-acquisition-Adam_Johnson.pdf) | [video](https://vimeo.com/75485713)
 
 ###July, 2013###
 - **Mood Mapping** - Liz Miller | [presentation](meetup content/July 2013/Liz Miller - QS - 29 07 2013.ppt) | [video](https://vimeo.com/71776733)
