@@ -26,5 +26,5 @@
 
 - **Introducing Narrato** - Ramy Khuffash | [presentation](meetup-content/2013-06/Introducing_Narrato_-_Ramy_Khuffash.pdf) | [video](https://vimeo.com/68964779)
 - **Textile-based Sensing** - Anne Prahl | [presentation](meetup-content/2013-06/Textile-based_Sensing_-_Anne_Prahl.pdf) | [video](https://vimeo.com/68775423)
-- **Past, Present, Future** - Sara Marie Watson | [presentation](meetup content/2013-06/Past,_Present,_Future_-_Sara_Marie_Watson.key) | [video](https://vimeo.com/68913267)
+- **Past, Present, Future** - Sara Marie Watson | [presentation](meetup-content/2013-06/Past,_Present,_Future_-_Sara_Marie_Watson.key) | [video](https://vimeo.com/68913267)
 - **Daily Measurements of Cancerousness** - Ian Clements | [presentation](meetup-content/2013-06/Daily_Measurements_of_Cancerousness_-_Ian_Clements.pptx) | [video](https://vimeo.com/68941583)
