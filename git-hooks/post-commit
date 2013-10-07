@@ -20,6 +20,11 @@ if [ `git rev-parse --abbrev-ref HEAD` == "master" ]; then
     cat README.md >> index.md
     rm README.md
     git add index.md
+
+    # Sync the meetup-content in master to gh-pages
+    ###################################################################
+    git checkout master -- meetup-content
+
     git commit -a -m "Sync README.md in master branch to index.md in gh-pages"
 
     # Uncomment the following push if you want to auto push to
