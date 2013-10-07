@@ -9,6 +9,11 @@
 
 # Content from the London QS Meetups
 
+### September, 2013
+- **Hotwire** - David Clare | [presentation](meetup-content/2013-09/hotwire.pdf) | video wip
+- **Self-Trackers turning Self-Hacker** - Rasmus Petersen | [presentation](meetup-content/2013-09/rasmus-petersen.pdf) | video wip
+- **Do Healthy Choices Effect Happiness** - Roland White | [presentation](meetup-content/2013-09/roland-white.ppt) | video wip
+
 ### August, 2013
 
 - **Me** - Farzana Dudhwala | [presentation](meetup-content/2013-08/ME_-_Farzana_Dudhwala.pdf) | [video](https://vimeo.com/73598429)
