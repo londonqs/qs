@@ -9,7 +9,6 @@
 
 # Content from the London QS Meetups
 
-
 ### August, 2013
 
 - **Me** - Farzana Dudhwala | [presentation](meetup-content/2013-08/ME_-_Farzana_Dudhwala.pdf) | [video](https://vimeo.com/73598429)
