@@ -9,7 +9,7 @@
 
 # Content from the London QS Meetups
 
-### October, 2013
+### October, 2013 (videos still WIP)
 - **My Genetics and Brain Tracking** - Owen Blain | [presentation](meetup-content/2013-10/owen-blain.ppt) | [video]() 
 - **Wearable enoses** - Anne Prahl | [presentation](meetup-content/2013-10/anne-prahl.pdf) | [video]()
 - **Automatic Lifelogging for non-QSers** - Blain Price | [presentation](meetup-content/2013-10/blain-price.ppt) | [video]()
