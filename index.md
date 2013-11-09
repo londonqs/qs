@@ -14,6 +14,11 @@ layout: index
 
 # Content from the London QS Meetups
 
+### October, 2013
+- **My Genetics and Brain Tracking** - Owen Blain | [presentation](meetup-content/2013-10/owen-blain.ppt) | [video]() 
+- **Wearable enoses** - Anne Prahl | [presentation](meetup-content/2013-10/anne-prahl.pdf) | [video]()
+- **Automatic Lifelogging for non-QSers** - Blain Price | [presentation](meetup-content/2013-10/blain-price.ppt) | [video]()
+
 ### September, 2013
 - **Hotwire** - David Clare | [presentation](meetup-content/2013-09/hotwire.pdf) | [video](https://vimeo.com/78050329)
 - **Designing Software for Self-Trackers** - Rasmus Petersen | [presentation](meetup-content/2013-09/rasmus-petersen.pdf) | [video](https://vimeo.com/77986003) 
