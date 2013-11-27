@@ -11,14 +11,14 @@
 # Content from the London QS Meetups
 
 ### November, 2013
-- **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.ppt) | video  - soon!
-- **Show and Tell** - Maneesh Juneja | [presentation](meetup-content/2013-11/maneesh-juneja.ppt) | video - soon!
+- **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.pptx) | video  - soon!
+- **Show and Tell** - Maneesh Juneja | [presentation](meetup-content/2013-11/maneesh-juneja.pptx) | video - soon!
 - **Getting your Data from GPs** - Roger Taylor | (no presentation) | video - soon!
 
 ### October, 2013
-- **My Genetics and Brain Tracking** - Owen Bain | [presentation](meetup-content/2013-10/owen-bain.ppt) | [video](https://vimeo.com/79040232) 
+- **My Genetics and Brain Tracking** - Owen Bain | [presentation](meetup-content/2013-10/owen-bain.pptx) | [video](https://vimeo.com/79040232) 
 - **Wearable enoses** - Anne Prahl | [presentation](meetup-content/2013-10/anne-prahl.pdf) | [video](https://vimeo.com/79009267)
-- **Automatic Lifelogging for non-QSers** - Blaine Price | [presentation](meetup-content/2013-10/blaine-price.ppt) | [video](https://vimeo.com/79026657)
+- **Automatic Lifelogging for non-QSers** - Blaine Price | [presentation](meetup-content/2013-10/blaine-price.pptx) | [video](https://vimeo.com/79026657)
 
 ### September, 2013
 - **Hotwire** - David Clare | [presentation](meetup-content/2013-09/hotwire.pdf) | [video](https://vimeo.com/78050329)
