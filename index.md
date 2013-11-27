@@ -18,7 +18,7 @@ layout: index
 ### November, 2013
 - **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.ppt) | video  - soon!
 - **Show and Tell** - Maneesh Juneja | [presentation](meetup-content/2013-11/maneesh-juneja.ppt) | video - soon!
-- **Getting your Data from GPs** - Roger Taylor | presentation (no presentation) | video - soon!
+- **Getting your Data from GPs** - Roger Taylor | (no presentation) | video - soon!
 
 ### October, 2013
 - **My Genetics and Brain Tracking** - Owen Blain | [presentation](meetup-content/2013-10/owen-blain.ppt) | [video](https://vimeo.com/79040232) 
