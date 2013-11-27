@@ -8,16 +8,22 @@ layout: index
 # General Links
 
 1. London QS Videos: [Vimeo Channel](https://vimeo.com/channels/londonqs)
-2. Self-Hacking Discussion Group: [Google Group](https://groups.google.com/forum/#!forum/self-hacking)
-3. London Meetups: [meetup home page](http://www.meetup.com/LondonQS/events/133546932/)
+1. Self-Hacking Discussion Group: [Google Group](https://groups.google.com/forum/#!forum/self-hacking)
+1. Self-Hacking Blog: [Blog](https://selfhacking.com)
+1. London Meetups: [meetup home page](http://www.meetup.com/LondonQS/events/133546932/)
 
 
 # Content from the London QS Meetups
 
-### October, 2013 (videos still WIP) 
-- **My Genetics and Brain Tracking** - Owen Blain | [presentation](meetup-content/2013-10/owen-blain.ppt) | [video]() 
-- **Wearable enoses** - Anne Prahl | [presentation](meetup-content/2013-10/anne-prahl.pdf) | [video]()
-- **Automatic Lifelogging for non-QSers** - Blain Price | [presentation](meetup-content/2013-10/blain-price.ppt) | [video]()
+### November, 2013
+- **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.ppt) | video  - soon!
+- **Show and Tell** - Maneesh Juneja | [presentation](meetup-content/2013-11/maneesh-juneja.ppt) | video - soon!
+- **Getting your Data from GPs** - Roger Taylor | presentation (no presentation) | video - soon!
+
+### October, 2013
+- **My Genetics and Brain Tracking** - Owen Blain | [presentation](meetup-content/2013-10/owen-blain.ppt) | [video](https://vimeo.com/79040232) 
+- **Wearable enoses** - Anne Prahl | [presentation](meetup-content/2013-10/anne-prahl.pdf) | [video](https://vimeo.com/79009267)
+- **Automatic Lifelogging for non-QSers** - Blain Price | [presentation](meetup-content/2013-10/blain-price.ppt) | [video](https://vimeo.com/79026657)
 
 ### September, 2013
 - **Hotwire** - David Clare | [presentation](meetup-content/2013-09/hotwire.pdf) | [video](https://vimeo.com/78050329)
