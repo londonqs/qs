@@ -16,9 +16,9 @@ layout: index
 # Content from the London QS Meetups
 
 ### November, 2013
-- **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.pptx) | video  - soon!
-- **Show and Tell** - Maneesh Juneja | [presentation](meetup-content/2013-11/maneesh-juneja.pptx) | video - soon!
-- **Getting your Data from GPs** - Roger Taylor | (no presentation) | video - soon!
+- **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.pptx) | [video](https://vimeo.com/83913668)
+- **Show and Tell** - Maneesh Juneja | [presentation](meetup-content/2013-11/maneesh-juneja.pptx) | [video](https://vimeo.com/83927066)
+- **Getting your Data from GPs** - Roger Taylor | (no presentation) | [video](https://vimeo.com/84108445)
 
 ### October, 2013
 - **My Genetics and Brain Tracking** - Owen Bain | [presentation](meetup-content/2013-10/owen-bain.pptx) | [video](https://vimeo.com/79040232) 
