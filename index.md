@@ -14,6 +14,10 @@ layout: index
 
 
 # Content from the London QS Meetups
+### January, 2014
+- **Monitoring my Memory** - Andrew Laughton | [presentation](meetup-content/2014-01/monitoring-memory.pptx) | [video] - coming soon
+- **The Impact of Mindfulness** - Nick Buckley | [presentation](meetup-content/2014-01/impact-of-mindfulness.pptx) | [video] - coming soon
+- **Non-Digital Tracking** - Ulrich Atz | (no presentation) | [video](https://vimeo.com/86875938)
 
 ### November, 2013
 - **Zen and the Art of QS** - Gary Monk | [presentation](meetup-content/2013-11/gary-monk.pptx) | [video](https://vimeo.com/83913668)
