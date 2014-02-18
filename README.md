@@ -5,13 +5,13 @@
 1. London QS Videos: [Vimeo Channel](https://vimeo.com/channels/londonqs)
 1. Self-Hacking Discussion Group: [Google Group](https://groups.google.com/forum/#!forum/self-hacking)
 1. Self-Hacking Blog: [Blog](https://selfhacking.com)
-1. London Meetups: [meetup home page](http://www.meetup.com/LondonQS/events/133546932/)
+1. London Meetups: [Meetup home page](http://www.meetup.com/LondonQS/)
 
 
 # Content from the London QS Meetups
 ### January, 2014
-- **Monitoring my Memory** - Andrew Laughton | [presentation](meetup-content/2014-01/monitoring-memory.pptx) | [video] - coming soon
-- **The Impact of Mindfulness** - Nick Buckley | [presentation](meetup-content/2014-01/impact-of-mindfulness.pptx) | [video] - coming soon
+- **Monitoring my Memory** - Andrew Laughton | [presentation](meetup-content/2014-01/monitoring-memory.pptx) | [video](https://vimeo.com/86875935)
+- **The Impact of Mindfulness** - Nick Buckley | [presentation](meetup-content/2014-01/impact-of-mindfulness.pptx) | [video](https://vimeo.com/86875937)
 - **Non-Digital Tracking** - Ulrich Atz | (no presentation) | [video](https://vimeo.com/86875938)
 
 ### November, 2013
