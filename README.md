@@ -9,6 +9,12 @@
 
 
 # Content from the London QS Meetups
+### February, 2014
+- **Tracking Finances** - Rosa Delgado | [presentation](meetup-content/2014-02/tracking-finances.pptx)
+- **Genes, Jeans, and Body Scans** -  | [presentation](meetup-content/2014-02/genes-jeans-body-scans.pptx) 
+- **Photographing QS** - Travis Hodge | [presentation](meetup-content/2014-02/travis-hodges.ppt)
+- **QS Survey** - Ulrich Atz | [presentation](meetup-content/2014-02/Survey overview.pdf)
+
 ### January, 2014
 - **Monitoring my Memory** - Andrew Laughton | [presentation](meetup-content/2014-01/monitoring-memory.pptx) | [video](https://vimeo.com/86875935)
 - **The Impact of Mindfulness** - Nick Buckley | [presentation](meetup-content/2014-01/impact-of-mindfulness.pptx) | [video](https://vimeo.com/86875937)
