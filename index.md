@@ -14,6 +14,12 @@ layout: index
 
 
 # Content from the London QS Meetups
+### February, 2014
+- **Tracking Finances** - Rosa Delgado | [presentation](meetup-content/2014-02/tracking-finances.pptx)
+- **Genes, Jeans, and Body Scans** -  | [presentation](meetup-content/2014-02/genes-jeans-body-scans.pptx) 
+- **Photographing QS** - Travis Hodge | [presentation](meetup-content/2014-02/travis-hodges.ppt)
+- **QS Survey** - Ulrich Atz | [presentation](meetup-content/2014-02/Survey overview.pdf)
+
 ### January, 2014
 - **Monitoring my Memory** - Andrew Laughton | [presentation](meetup-content/2014-01/monitoring-memory.pptx) | [video](https://vimeo.com/86875935)
 - **The Impact of Mindfulness** - Nick Buckley | [presentation](meetup-content/2014-01/impact-of-mindfulness.pptx) | [video](https://vimeo.com/86875937)
@@ -32,7 +38,7 @@ layout: index
 ### September, 2013
 - **Hotwire** - David Clare | [presentation](meetup-content/2013-09/hotwire.pdf) | [video](https://vimeo.com/78050329)
 - **Designing Software for Self-Trackers** - Rasmus Petersen | [presentation](meetup-content/2013-09/rasmus-petersen.pdf) | [video](https://vimeo.com/77986003) 
-- **Do Healthy Choices Effect Happiness** - Roland White | [presentation](meetup-content/2013-09/roland-white.ppt) | [video](https://vimeo.com/77986002)
+- **Do Healthy Choices Effect Happiness?** - Roland White | [presentation](meetup-content/2013-09/roland-white.ppt) | [video](https://vimeo.com/77986002)
 
 ### August, 2013
 
