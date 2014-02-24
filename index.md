@@ -16,7 +16,7 @@ layout: index
 # Content from the London QS Meetups
 ### February, 2014
 - **Tracking Finances** - Rosa Delgado | [presentation](meetup-content/2014-02/tracking-finances.pptx)
-- **Genes, Jeans, and Body Scans** -  | [presentation](meetup-content/2014-02/genes-jeans-body-scans.pptx) 
+- **Genes, Jeans, and Body Scans** - Suran Goonatilake  | [presentation](meetup-content/2014-02/genes-jeans-body-scans.pptx) 
 - **Photographing QS** - Travis Hodge | [presentation](meetup-content/2014-02/travis-hodges.ppt)
 - **QS Survey** - Ulrich Atz | [presentation](meetup-content/2014-02/Survey overview.pdf)
 
