@@ -12,15 +12,15 @@
 
 ### March, 2014
 - **Am I Normal** - Blaine Price | [presentation](meetup-content/2014-03/am-i-normal.pdf)
-- **QS Survey, Part II** - ???  | [presentation](meetup-content/2014-03/qs-survey-2.pptx) 
+- **QS Survey, Part II** - Ulrich Atz  | [presentation](meetup-content/2014-03/qs-survey-2.pptx) 
 - **Fight on Wednesdays** - ??? | [presentation](meetup-content/2014-03/fight-on-wednesdays.pptx)
 
 
 ### February, 2014 ###
-- **Tracking Finances** - Rosa Delgado | [presentation](meetup-content/2014-02/tracking-finances.pptx)
-- **Genes, Jeans, and Body Scans** - Suran Goonatilake  | [presentation](meetup-content/2014-02/genes-jeans-body-scans.pptx) 
+- **Tracking Finances** - Rosa Delgado | [presentation](meetup-content/2014-02/tracking-finances.pptx) | [video](https://vimeo.com/88398097)
+- **Genes, Jeans, and Body Scans** - Suran Goonatilake  | [presentation](meetup-content/2014-02/genes-jeans-body-scans.pptx) | 
 - **Photographing QS** - Travis Hodge | [presentation](meetup-content/2014-02/travis-hodges.ppt)
-- **QS Survey** - Ulrich Atz | [presentation](meetup-content/2014-02/Survey overview.pdf)
+- **QS Survey** - Ulrich Atz | [presentation](meetup-content/2014-02/Survey overview.pdf) | [video](https://vimeo.com/88398261)
 
 ### January, 2014
 - **Monitoring my Memory** - Andrew Laughton | [presentation](meetup-content/2014-01/monitoring-memory.pptx) | [video](https://vimeo.com/86875935)
