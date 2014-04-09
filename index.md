@@ -18,7 +18,7 @@ layout: index
 ### March, 2014
 - **Am I Normal** - Blaine Price | [presentation](meetup-content/2014-03/am-i-normal.pdf)
 - **QS Survey, Part II** - Ulrich Atz  | [presentation](meetup-content/2014-03/qs-survey-2.pptx) 
-- **Fight on Wednesdays** - Paul LaFontaine | [presentation](meetup-content/2014-03/fight-on-wednesdays.pptx)
+- **Fight on Wednesdays** - Paul LaFontaine | [presentation](meetup-content/2014-03/fight-on-wednesdays.pptx) 
 
 
 ### February, 2014 ###
