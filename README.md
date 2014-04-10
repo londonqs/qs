@@ -1,4 +1,4 @@
-![ ](https://github.com/ksnyde/qs/raw/master/assets/qs-london.png)
+![ ](https://github.com/londonqs/qs/raw/master/assets/qs-london.png)
 
 # General Links
 
@@ -12,8 +12,8 @@
 
 ### March, 2014
 - **Am I Normal** - Blaine Price | [presentation](meetup-content/2014-03/am-i-normal.pdf)
-- **QS Survey, Part II** - Ulrich Atz  | [presentation](meetup-content/2014-03/qs-survey-2.pptx) 
-- **Fight on Wednesdays** - Paul LaFontaine | [presentation](meetup-content/2014-03/fight-on-wednesdays.pptx) 
+- **QS Survey, Part II** - Ulrich Atz  | [presentation](meetup-content/2014-03/qs-survey-2.pptx)
+- **Fight on Wednesdays** - Paul LaFontaine | [presentation](meetup-content/2014-03/fight-on-wednesdays.pptx)
 
 
 ### February, 2014 ###
@@ -33,13 +33,13 @@
 - **Getting your Data from GPs** - Roger Taylor | (no presentation) | [video](https://vimeo.com/84108445)
 
 ### October, 2013
-- **My Genetics and Brain Tracking** - Owen Bain | [presentation](meetup-content/2013-10/owen-bain.pptx) | [video](https://vimeo.com/79040232) 
+- **My Genetics and Brain Tracking** - Owen Bain | [presentation](meetup-content/2013-10/owen-bain.pptx) | [video](https://vimeo.com/79040232)
 - **Wearable enoses** - Anne Prahl | [presentation](meetup-content/2013-10/anne-prahl.pdf) | [video](https://vimeo.com/79009267)
 - **Automatic Lifelogging for non-QSers** - Blaine Price | [presentation](meetup-content/2013-10/blaine-price.pptx) | [video](https://vimeo.com/79026657)
 
 ### September, 2013
 - **Hotwire** - David Clare | [presentation](meetup-content/2013-09/hotwire.pdf) | [video](https://vimeo.com/78050329)
-- **Designing Software for Self-Trackers** - Rasmus Petersen | [presentation](meetup-content/2013-09/rasmus-petersen.pdf) | [video](https://vimeo.com/77986003) 
+- **Designing Software for Self-Trackers** - Rasmus Petersen | [presentation](meetup-content/2013-09/rasmus-petersen.pdf) | [video](https://vimeo.com/77986003)
 - **Do Healthy Choices Effect Happiness?** - Roland White | [presentation](meetup-content/2013-09/roland-white.ppt) | [video](https://vimeo.com/77986002)
 
 ### August, 2013
