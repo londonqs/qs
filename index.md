@@ -15,6 +15,13 @@ layout: index
 
 # Content from the London QS Meetups
 
+### April, 2014 ###
+
+- **Gamification of QS** - Chris Angel | [presentation](meetup-content/2014-04/chris-angel-gameification-of-qs.pptx) | video - WIP
+- **Managing Type 1 Diabetes** - Alex Colins  | [presentation](meetup-content/2014-04/alex-colins-managing-diabetes.pptx)  | video - WIP
+- **Data Visualisation Catalogue** - Severino Ribecca | [presentation](meetup-content/2014-04/severino-ribecca-data-visualisation.key)  | video - WIP
+
+
 ### March, 2014
 - **Am I Normal** - Blaine Price | [presentation](meetup-content/2014-03/am-i-normal.pdf)
 - **QS Survey, Part II** - Ulrich Atz  | [presentation](meetup-content/2014-03/qs-survey-2.pptx)
