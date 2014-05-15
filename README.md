@@ -12,9 +12,9 @@
 
 ### April, 2014 ###
 
-- **Gamification of QS** - Chris Angel | [presentation](meetup-content/2014-04/chris-angel-gameification-of-qs.pptx) | video - WIP
-- **Managing Type 1 Diabetes** - Alex Colins  | [presentation](meetup-content/2014-04/alex-colins-managing-diabetes.pptx)  | video - WIP
-- **Data Visualisation Catalogue** - Severino Ribecca | [presentation](meetup-content/2014-04/severino-ribecca-data-visualisation.key)  | video - WIP
+- **Gamification of QS** - Chris Angel | [presentation](meetup-content/2014-04/chris-angel-gameification-of-qs.pptx) | [video](https://vimeo.com/94897659)
+- **Managing Type 1 Diabetes** - Alex Collins  | [presentation](meetup-content/2014-04/alex-collins-managing-diabetes.pptx)  | [video](https://vimeo.com/94897658)
+- **Data Visualisation Catalogue** - Severino Ribecca | [presentation](meetup-content/2014-04/severino-ribecca-data-visualisation.key)  | [video](https://vimeo.com/95123494)
 
 
 ### March, 2014
