@@ -9,7 +9,6 @@ layout: index
 
 1. London QS Videos: [Vimeo Channel](https://vimeo.com/channels/londonqs)
 1. Self-Hacking Discussion Group: [Google Group](https://groups.google.com/forum/#!forum/self-hacking)
-1. Self-Hacking Blog: [Blog](https://selfhacking.com)
 1. London Meetups: [Meetup home page](http://www.meetup.com/LondonQS/)
 
 
