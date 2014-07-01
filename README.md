@@ -11,9 +11,9 @@
 # Content from the London QS Meetups
 
 ### May, 2014 ###
-- **Don't Just Stand There** - Paul LaFontaine | [presentation](meetup-content/2014-05/dont-just-stand-there_Paul-LaFontaine.pptx) | [video](https://vimeo.com/94897659)
-- **Location History** - Jamie Aspinall  | [presentation](meetup-content/2014-05/location-history_Jamie Aspinall.pptx)  | [video](https://vimeo.com/94897658)
-- **Sliders** - Jason Bates | [presentation](meetup-content/2014-05/sliders-jason-bates.pptx)  | [video](https://vimeo.com/95123494)
+- **Don't Just Stand There** - Paul LaFontaine | [presentation](meetup-content/2014-05/dont-just-stand-there_Paul-LaFontaine.pptx) | [video](https://vimeo.com/99484388)
+- **Location History** - Jamie Aspinall  | [presentation](meetup-content/2014-05/location-history_Jamie Aspinall.pptx)  | [video](https://vimeo.com/99571921)
+- **Sliders** - Jason Bates | [presentation](meetup-content/2014-05/sliders-jason-bates.pptx)  | [video](https://vimeo.com/99520680)
 
 
 ### April, 2014 ###
