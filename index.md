@@ -15,8 +15,13 @@ layout: index
 
 # Content from the London QS Meetups
 
-### April, 2014 ###
+### May, 2014 ###
+- **Don't Just Stand There** - Paul LaFontaine | [presentation](meetup-content/2014-05/dont-just-stand-there_Paul-LaFontaine.pptx) | [video](https://vimeo.com/94897659)
+- **Location History** - Jamie Aspinall  | [presentation](meetup-content/2014-05/location-history_Jamie Aspinall.pptx)  | [video](https://vimeo.com/94897658)
+- **Sliders** - Jason Bates | [presentation](meetup-content/2014-05/sliders-jason-bates.pptx)  | [video](https://vimeo.com/95123494)
 
+
+### April, 2014 ###
 - **Gamification of QS** - Chris Angel | [presentation](meetup-content/2014-04/chris-angel-gameification-of-qs.pptx) | [video](https://vimeo.com/94897659)
 - **Managing Type 1 Diabetes** - Alex Collins  | [presentation](meetup-content/2014-04/alex-collins-managing-diabetes.pptx)  | [video](https://vimeo.com/94897658)
 - **Data Visualisation Catalogue** - Severino Ribecca | [presentation](meetup-content/2014-04/severino-ribecca-data-visualisation.key)  | [video](https://vimeo.com/95123494)
