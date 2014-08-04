@@ -9,6 +9,17 @@
 
 # Content from the London QS Meetups
 
+### July, 2014 ###
+
+- **My Music Listening Habits** - Tim Ngwena | [presentation](meetup-content/2014-07/my-music-listening-habits.pptx) | video (soonish)
+- **Bits and Bobs** - Adam Johnson | [presentation](https://github.com/adamchainz/qs-talk-bits-and-bobs/blob/master/Bits-and-Bobs.pdf?raw=true) |  video (soonish)
+
+
+### June, 2014 ###
+- **Breaking Away from the Tyranny of the Norm** - Anne Wright | [presentation]() | [video](https://vimeo.com/channels/londonqs/99520681)
+- **Brain Optimisation** - Ken Snyder | [presentation](meetup-content/2014-06/hacking-brain-health.key) | [video](https://vimeo.com/100057325)
+- **Anne2** - Anne Wright | [presentation]() | video (soon)
+
 ### May, 2014 ###
 - **Don't Just Stand There** - Paul LaFontaine | [presentation](meetup-content/2014-05/dont-just-stand-there_Paul-LaFontaine.pptx) | [video](https://vimeo.com/99484388)
 - **Location History** - Jamie Aspinall  | [presentation](meetup-content/2014-05/location-history_Jamie Aspinall.pptx)  | [video](https://vimeo.com/99571921)
