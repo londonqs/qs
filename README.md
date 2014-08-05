@@ -16,9 +16,9 @@
 
 
 ### June, 2014 ###
-- **Breaking Away from the Tyranny of the Norm** - Anne Wright | [presentation]() | [video](https://vimeo.com/channels/londonqs/99520681)
+- **Breaking Away from the Tyranny of the Norm** - Anne Wright | [presentation](meetup-content/2014-06/anne-wright-presentation-material.zip) | [video](https://vimeo.com/channels/londonqs/99520681)
 - **Brain Optimisation** - Ken Snyder | [presentation](meetup-content/2014-06/hacking-brain-health.key) | [video](https://vimeo.com/100057325)
-- **Anne2** - Anne Wright | [presentation]() | video (soon)
+- **Data Aggregation & Exploration with Fluxtream/BodyTrack** - Anne Wright | [presentation](meetup-content/2014-06/anne-wright-presentation-material.zip) | [video](https://vimeo.com/channels/londonqs/102604323)
 
 ### May, 2014 ###
 - **Don't Just Stand There** - Paul LaFontaine | [presentation](meetup-content/2014-05/dont-just-stand-there_Paul-LaFontaine.pptx) | [video](https://vimeo.com/99484388)
