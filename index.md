@@ -14,10 +14,15 @@ layout: index
 
 # Content from the London QS Meetups
 
+### September, 2014 ###
+
+- **Data Aggregators for Self Hacking** - Rasmus Peterson | [presentation](meetup-content/2014-09/qs-data-aggregators.pdf) | video (soonish)
+- **Studying the QS Movement** - Ana Viseu | [presentation](meetup-content/2014-09/AnnViseuPresentation.pptx) |  video (soonish)
+
 ### July, 2014 ###
 
-- **My Music Listening Habits** - Tim Ngwena | [presentation](meetup-content/2014-07/my-music-listening-habits.pptx) | video (soonish)
-- **Bits and Bobs** - Adam Johnson | [presentation](https://github.com/adamchainz/qs-talk-bits-and-bobs/blob/master/Bits-and-Bobs.pdf?raw=true) |  video (soonish)
+- **My Music Listening Habits** - Tim Ngwena | [presentation](meetup-content/2014-07/my-music-listening-habits.pptx) | [video](https://vimeo.com/106694186)
+- **Bits and Bobs** - Adam Johnson | [presentation](https://github.com/adamchainz/qs-talk-bits-and-bobs/blob/master/Bits-and-Bobs.pdf?raw=true) |  [video](https://vimeo.com/106720029)
 
 
 ### June, 2014 ###
