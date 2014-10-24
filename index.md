@@ -14,10 +14,16 @@ layout: index
 
 # Content from the London QS Meetups
 
+### October, 2014 ###
+
+- **Improving my Sleep** - Ben Finn | [presentation](meetup-content/2014-10/qs-sleep.pptx) | video (tbd)
+- **Life Tracking** - Ian Billett | [presentation](meetup-content/2014-10/life-track.pptx) |  video (tbd) 
+- **Sanalytica** - Philipp Shulte | [presentation](meetup-content/2014-10/sanalytica.pdf) |  video (tbd)
+
 ### September, 2014 ###
 
-- **Data Aggregators for Self Hacking** - Rasmus Peterson | [presentation](meetup-content/2014-09/qs-data-aggregators.pdf) | video (soonish)
-- **Studying the QS Movement** - Ana Viseu | [presentation](meetup-content/2014-09/AnnViseuPresentation.pptx) |  video (soonish)
+- **Data Aggregators for Self Hacking** - Rasmus Peterson | [presentation](meetup-content/2014-09/qs-data-aggregators.pdf) | video (tbd)
+- **Studying the QS Movement** - Ana Viseu | [presentation](meetup-content/2014-09/AnnViseuPresentation.pptx) |  video (tbd)
 
 ### July, 2014 ###
 
