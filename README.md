@@ -12,7 +12,7 @@
 ### October, 2014 ###
 
 - **Improving my Sleep** - Ben Finn | [presentation](meetup-content/2014-10/qs-sleep.pptx) | video (tbd)
-- **Life Tracking** - Ian Billett | [presentation](meetup-content/2014-10/life-track.pptx) |  video (tbd)
+- **Life Tracking** - Ian Billett | [presentation](meetup-content/2014-10/life-track.pptx) |  video (tbd) 
 - **Sanalytica** - Philipp Shulte | [presentation](meetup-content/2014-10/sanalytica.pdf) |  video (tbd)
 
 ### September, 2014 ###
