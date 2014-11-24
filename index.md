@@ -14,16 +14,22 @@ layout: index
 
 # Content from the London QS Meetups
 
+### November, 2014 ###
+
+- **Cross Country Tracking** - Paul Tanner | [presentation](meetup-content/2014-11/cross-country-tracking.odp) | video (tbd)
+- **Fashion, Data, and QS** - Caroline Zheng | [presentation](meetup-content/2014-11/fashion-data-and-qs.pdf) |  video (tbd) 
+- **Do Facts Speak for Themselves?** - Alan Newman | [presentation](meetup-content/2014-11/do-facts-speak-for-themselves.pptx) |  video (tbd)
+
 ### October, 2014 ###
 
 - **Improving my Sleep** - Ben Finn | [presentation](meetup-content/2014-10/qs-sleep.pptx) | video (tbd)
 - **Life Tracking** - Ian Billett | [presentation](meetup-content/2014-10/life-track.pptx) |  video (tbd) 
 - **Sanalytica** - Philipp Shulte | [presentation](meetup-content/2014-10/sanalytica.pdf) |  video (tbd)
 
-### September, 2014 ###
+### September, 2014
 
-- **Data Aggregators for Self Hacking** - Rasmus Peterson | [presentation](meetup-content/2014-09/qs-data-aggregators.pdf) | video (tbd)
-- **Studying the QS Movement** - Ana Viseu | [presentation](meetup-content/2014-09/AnnViseuPresentation.pptx) |  video (tbd)
+- **Data Aggregators for Self Hacking** - Rasmus Peterson | [presentation](meetup-content/2014-09/qs-data-aggregators.pdf) | [video](https://vimeo.com/112676310)
+- **Studying the QS Movement** - Ana Viseu | [presentation](meetup-content/2014-09/AnnViseuPresentation.pptx) |  [video](https://vimeo.com/112676105)
 
 ### July, 2014 ###
 
