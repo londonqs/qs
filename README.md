@@ -11,15 +11,15 @@
 
 ### November, 2014 ###
 
-- **Cross Country Tracking** - Paul Tanner | [presentation](meetup-content/2014-11/cross-country-tracking.odp) | video (tbd)
-- **Fashion, Data, and QS** - Caroline Zheng | [presentation](meetup-content/2014-11/fashion-data-and-qs.pdf) |  video (tbd) 
-- **Do Facts Speak for Themselves?** - Alan Newman | [presentation](meetup-content/2014-11/do-facts-speak-for-themselves.pptx) |  video (tbd)
+- **Cross Country Tracking** - Paul Tanner | [presentation](meetup-content/2014-11/cross-country-tracking.odp) | [video](https://vimeo.com/113266992)
+- **Fashion, Data, and QS** - Caroline Zheng | [presentation](meetup-content/2014-11/fashion-data-and-qs.pdf) |  [video](https://vimeo.com/113266994) 
+- **Do Facts Speak for Themselves?** - Alan Newman | [presentation](meetup-content/2014-11/do-facts-speak-for-themselves.pptx) |  [video](https://vimeo.com/113266993)
 
 ### October, 2014 ###
 
-- **Improving my Sleep** - Ben Finn | [presentation](meetup-content/2014-10/qs-sleep.pptx) | video (tbd)
-- **Life Tracking** - Ian Billett | [presentation](meetup-content/2014-10/life-track.pptx) |  video (tbd) 
-- **Sanalytica** - Philipp Shulte | [presentation](meetup-content/2014-10/sanalytica.pdf) |  video (tbd)
+- **Improving my Sleep** - Ben Finn | [presentation](meetup-content/2014-10/qs-sleep.pptx) | [video](https://vimeo.com/112676309)
+- **Life Tracking** - Ian Billett | [presentation](meetup-content/2014-10/life-track.pptx) |  [video](https://vimeo.com/112676311) 
+- **Sanalytica** - Philipp Shulte | [presentation](meetup-content/2014-10/sanalytica.pdf) |  [video](https://vimeo.com/112676312)
 
 ### September, 2014
 
