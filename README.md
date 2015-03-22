@@ -7,7 +7,7 @@
 2. Discussion: [Google Group][3], [Slack Discussion][4]
 
 # Content from the London QS Meetups
-
+ 
 ### March, 2015
 
 - **Protieq Experiment** -  | [presentation][5] | video
