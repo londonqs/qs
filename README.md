@@ -125,7 +125,7 @@
 [7]:	meetup-content/2015-03/multi-tracking.pptx
 [8]:	meetup-content/2015-02/ian-clements-health-metrics.pptx
 [9]:	meetup-content/2015-02/jolyon-nicks-nutritional-balance.pptx
-[10]:	meetup-content/2015-01/tracking-pushups.ppt
+[10]:	meetup-content/2015-01/tracking-pushups.pptx
 [11]:	https://vimeo.com/121609055
 [12]:	meetup-content/2015-01/data-interrupted.key
 [13]:	https://vimeo.com/121609054
