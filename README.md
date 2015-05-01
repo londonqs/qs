@@ -7,34 +7,34 @@
 2. Discussion: [Google Group][3], [Slack Discussion][4]
 
 # Content from the London QS Meetups
- 
+
 ### March, 2015
 
 - **Protieq Experiment** -  | [presentation][5] | video
-- **Supplement Effectiveness** - David Greenwood | [presentation][6] |  video 
+- **Supplement Effectiveness** - David Greenwood | [presentation][6] |  video
 - **Multi-tracking** - Andrea Zhu | [presentation][7] |  video
 
 ### February, 2015
 
 - **Health Metrics** - Ian Clements | [presentation][8] | video
-- **Nutritional Balance** - Jolyon Nicks | [presentation][9] |  video 
+- **Nutritional Balance** - Jolyon Nicks | [presentation][9] |  video
 
 ### January, 2015
 
 - **Tracking 120,856 Pushups** - Ulrich Atz | [presentation][10] | [video][11]
-- **Data / Interrupted** - Ken Snyder | [presentation][12] |  [video][13] 
+- **Data / Interrupted** - Ken Snyder | [presentation][12] |  [video][13]
 - **Orgasm Anatomy** - Tonya Silva | [presentation][14] |  [video][15]
 
 ### November, 2014
 
 - **Cross Country Tracking** - Paul Tanner | [presentation][16] | [video][17]
-- **Fashion, Data, and QS** - Caroline Zheng | [presentation][18] |  [video][19] 
+- **Fashion, Data, and QS** - Caroline Zheng | [presentation][18] |  [video][19]
 - **Do Facts Speak for Themselves?** - Alan Newman | [presentation][20] |  [video][21]
 
 ### October, 2014
 
 - **Improving my Sleep** - Ben Finn | [presentation][22] | [video][23]
-- **Life Tracking** - Ian Billett | [presentation][24] |  [video][25] 
+- **Life Tracking** - Ian Billett | [presentation][24] |  [video][25]
 - **Sanalytica** - Philipp Shulte | [presentation][26] |  [video][27]
 
 ### September, 2014
@@ -58,18 +58,15 @@
 - **Location History** - Jamie Aspinall  | [presentation](meetup-content/2014-05/location-history\_Jamie Aspinall.pptx)  | [video][44]
 - **Sliders** - Jason Bates | [presentation][45]  | [video][46]
 
-
 ### April, 2014
 - **Gamification of QS** - Chris Angel | [presentation][47] | [video][48]
 - **Managing Type 1 Diabetes** - Alex Collins  | [presentation][49]  | [video][50]
 - **Data Visualisation Catalogue** - Severino Ribecca | [presentation][51]  | [video][52]
 
-
 ### March, 2014
 - **Am I Normal** - Blaine Price | [presentation][53]
 - **QS Survey, Part II** - Ulrich Atz  | [presentation][54]
 - **Fight on Wednesdays** - Paul LaFontaine | [presentation][55]
-
 
 ### February, 2014
 - **Tracking Finances** - Rosa Delgado | [presentation][56] | [video][57]
